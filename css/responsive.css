@@ -1,0 +1,349 @@
+
+/*========================
+start header
+=============*/
+
+@media(max-width: 768px){
+	ul.navbar-nav.ms-auto.mb-2.mb-lg-0 {
+    padding-top: 30px;
+}
+.mt-5 {
+    margin-top: 7rem!important;
+}
+}
+/*
+---------576px------*/
+@media(max-width:576px){
+	.mt-5 {
+    margin-top: 2rem!important;
+}
+}
+/*---------480px------*/
+@media(max-width:480px){
+	
+}
+
+/*--------------320px----------*/
+@media(max-width:320px){
+	.header-info.text-center h1 {
+    font-size: 40px;
+    font-weight: 900;
+}
+.header-info.text-center p {
+    letter-spacing: 7px;
+    font-size: 13px;
+    font-weight: 700;
+}
+.mt-5 {
+    margin-top: 1rem !important;
+}
+}
+/*--------------290px----------*/
+@media(max-width:290px){
+	.header-info.text-center h1 {
+    font-size: 35px;
+    font-weight: 900;
+}
+.header-info.text-center p {
+    letter-spacing: 7px;
+    font-size: 11px;
+    font-weight: 700;
+}
+
+}
+
+/*=======================Header End------------------*/
+
+/*================Cab Section Start==============*/
+
+@media(max-width: 768px){
+	.cab-right.mt-5 {
+ 
+    margin: auto;
+}
+section.cab.bg-orange.py-5 {
+    height: 1025px;
+}
+.mt-5 {
+    margin-top: 0rem !important;
+}
+}
+/*===================576px=================*/
+@media(max-width: 576px){
+	section.cab.bg-orange.py-5 {
+    height: 1145px;
+}
+h1.txt-dark.text-uppercase.font-weight-900 {
+    
+    font-size: 34px;
+}
+}
+
+
+/*====================320px==================*/
+
+@media(max-width: 320px){
+	.cab-lift.py-5.mt-5 {
+    padding: 20px;
+        
+}
+.cab-right.mt-5 {
+    
+    width: 295px;
+    
+}
+section.cab.bg-orange.py-5 {
+    height: 1304px;
+}
+}
+
+/*====================280px=================*/
+@media(max-width: 280px){
+	.cab-lift.py-5.mt-5 {
+    padding: 20px;
+        
+}
+.cab-right.mt-5 {
+    
+    width: 256px;
+    
+}
+section.cab.bg-orange.py-5 {
+    height: 1270px;
+}
+}
+h1.text-uppercase.font-weight-bold.text-white{
+	font-size: 34px;
+}
+/*================Cab Section End==============*/
+
+/*===============Card SEction start===============*/
+
+@media(max-width: 992px){
+	.cardstar img{
+		margin-left: 74px;
+	}
+}
+
+/*===================== 768px =================*/
+@media (max-width: 768px){
+	 .cardstar img {
+    margin-left: 274px;
+}
+.card{
+	margin-top: 130px;
+}
+.card-body{
+	margin-top: 55px;
+}
+}
+
+
+
+
+/*======================= 576px ==================*/
+@media(max-width: 576px){
+	.cardstar img {
+    margin-left: 184px;
+}
+}
+/*======================= 500px ==================*/
+@media(max-width: 500px){
+	.cardstar img {
+    margin-left: 155px;
+}
+}
+/*======================= 480px ==================*/
+@media(max-width: 480px){
+	.cardstar img {
+    margin-left: 154px;
+}
+}
+/*======================= 320px ==================*/
+@media(max-width: 320px){
+	.cardstar img {
+    margin-left: 74px;
+}
+}
+/*=================card section end======================*/
+
+/*========================= content section start ==============================*/
+@media(max-width: 768px){
+	.row.allcontent {
+    margin: auto;
+    padding-left: 105px;
+}
+section.contenttexi {
+    height: 970px;
+}
+.row.text-center.contentbtn {
+    padding-top: 74px;
+}
+}
+
+/*======================== 576 px=====================*/
+
+@media(max-width: 576px){
+	.row.allcontent {
+    margin: auto;
+    padding-left: 32px;
+}
+}
+/*=========================== 500px =========================*/
+@media (max-width: 500px){
+	.row.allcontent {
+    margin: auto;
+    padding-left: 12px;
+}
+
+}
+/*=========================== 320px =========================*/
+@media (max-width: 320px){
+	.row.allcontent {
+    margin: auto;
+    padding-left: 0px;
+}
+.contenttext h4 {
+    width: 193px;
+}
+.contenttext p {
+    width: 199px;
+}
+.contenttext {
+    margin-left: 85px;
+}
+section.contenttexi {
+    height: 1045px;
+}
+
+}
+
+/*========================= content section end ==============================*/
+
+
+/*=================== Best Cab SERVICEs start====================== */
+
+@media(max-width: 992px){
+	.bestimg img {
+    width: 175px;
+    padding: 7px;
+}
+}
+/*===================== 768 px ============================*/
+@media(max-width: 768px){
+	.bestrightimg img {
+    
+    padding-left: 149px;
+    margin-top: 60px;
+}
+}
+
+/*===================== 576 px ============================*/
+@media(max-width: 576px){
+.leftbest {
+    padding-left: 76px;
+}
+.bestcabtitle h1 {
+    padding-bottom: 0px;
+}
+}
+/*============================= 500px =======================*/
+@media(max-width: 500px){
+	.leftbest {
+    padding-left: 45px;
+}
+}
+/*===================== 320 px ============================*/
+@media(max-width: 320px){
+  .bestcabtitle h1 {
+  
+    font-size: 30px;
+}
+.leftbest {
+    padding-left: 4px;
+}
+.besttxt p {
+    
+    width: 304px;
+}
+.bestimg img {
+    width: 141px;
+    padding: 2px;
+}
+.bestrightimg img {
+    padding-left: 45px;
+    
+}
+}
+
+ /*=================== Best Cab SERVICEs End ====================== */
+
+ /*=================== testimonial section start ====================== */
+@media(max-width: 768px){
+	.mt-5 {
+    margin-top: 3rem !important;
+}
+.testimonial {
+    
+    height: 830px;
+}
+}
+@media(max-width: 320px){
+	.testimonial {
+    height: 1018px;
+}
+}
+
+ /*=================== testimonial section end ====================== */
+
+ /*=================== contact section start ====================== */
+@media(max-width: 576px){
+	.contactus h3 {
+    font-size: 19px;
+}
+.contactus h1 {
+    font-size: 40px;
+}
+}
+
+ /*=================== contact section end ====================== */
+
+ /*========================= footer area start =========================*/
+@media(max-width: 992px){
+	.icn.text-white i {
+    padding-left: 53px;
+}
+
+}
+
+/*======================= 768 px ================*/
+@media(max-width: 768px){
+	.row.py-5.allfootercont {
+    margin: auto;
+    padding-left: 80px;
+}
+.col-lg-4.footercnt {
+    padding-bottom: 60px;
+}
+.icontxt.text-white p {
+    padding-bottom: 19px;
+}
+}
+/*======================== 576 px ================*/
+@media(max-width: 576px){
+	.icontxt.text-white p {
+    padding-bottom: 11px;
+}
+}
+
+/*====================== 320 px =========================*/
+
+@media(max-width: 320px){
+	.row.py-5.allfootercont {
+    
+    padding-left: 20px;
+}
+}
+
+
+ /*========================= footer area end =========================*/
